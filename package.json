@@ -1,0 +1,23 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-cloudlabsuser-1958/Code-Generation-Refactoring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/github-cloudlabsuser-1958/Code-Generation-Refactoring/issues"
+  },
+  "homepage": "https://github.com/github-cloudlabsuser-1958/Code-Generation-Refactoring#readme"
+}
